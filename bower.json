@@ -1,0 +1,23 @@
+{
+  "name": "jquery.os",
+  "main": "jquery.os.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/suprMax/jquery.os",
+  "authors": [
+    "Max Degterev <me@maxdegterev.name>"
+  ],
+  "description": "Zepto-like OS detection for jQuery",
+  "keywords": [
+    "zepto",
+    "jquery",
+    "detect"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
