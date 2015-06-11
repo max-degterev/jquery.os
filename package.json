@@ -1,0 +1,19 @@
+{
+  "name": "jquery.os",
+  "version": "1.0.0",
+  "description": "Device detection for jQuery",
+  "main": "jquery.os.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprMax/jquery.os.git"
+  },
+  "author": "suprMax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suprMax/jquery.os/issues"
+  },
+  "homepage": "https://github.com/suprMax/jquery.os#readme"
+}
